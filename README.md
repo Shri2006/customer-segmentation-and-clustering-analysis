@@ -6,7 +6,7 @@ Applied unsupervised machine learning to segment customers into distinct, action
 
 **[🔗 View Live Interactive Dashboard](dashboard/index.html)** — the dashboard is a self-contained HTML file included in this repo (`dashboard/index.html`). To view it live on the web instead of downloading it, either:
 - Enable **GitHub Pages** for this repo (Settings → Pages → deploy from `main` branch), then link to `https://<username>.github.io/<repo>/dashboard/`, or
-- Open it instantly via [htmlpreview.github.io](https://htmlpreview.github.io/?https://github.com/<username>/<repo>/blob/main/dashboard/index.html) (swap in your GitHub username/repo)
+- Open it instantly via [htmlpreview.github.io]([https://github.com/Shri2006/customer-segmentation-and-clustering-analysis/blob/main/index.html]) (swap in your GitHub username/repo)
 
 ---
 
