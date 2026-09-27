@@ -1,0 +1,6 @@
+Cluster,Age,Annual_Income_k,Spending_Score,Purchase_Frequency,Tenure_Months,Customer_Lifetime_Value,Count,Pct,Segment
+0,43.0,103.5,84.4,27.9,47.1,5306.8,152,15.2,High-Value
+1,31.2,67.4,71.0,18.6,21.0,2971.9,264,26.4,Growth Potential
+3,47.0,55.0,55.5,21.3,60.9,2236.1,282,28.2,Loyal
+2,38.9,60.6,27.3,5.9,31.2,1338.3,169,16.9,At-Risk
+4,27.1,50.8,38.8,3.8,6.3,784.6,133,13.3,New

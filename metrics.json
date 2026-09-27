@@ -1,0 +1,23 @@
+{
+  "n_customers": 1000,
+  "n_segments": 5,
+  "kmeans_silhouette": 0.378,
+  "hierarchical_silhouette": 0.358,
+  "kmeans_vs_hierarchical_agreement_ari": 0.845,
+  "pca_variance_explained": 0.769,
+  "segment_recovery_accuracy": 0.945,
+  "segment_distribution_pct": {
+    "High-Value": 15.2,
+    "Growth Potential": 26.4,
+    "Loyal": 28.2,
+    "At-Risk": 16.9,
+    "New": 13.3
+  },
+  "avg_clv_by_segment": {
+    "High-Value": 5307.0,
+    "Growth Potential": 2972.0,
+    "Loyal": 2236.0,
+    "At-Risk": 1338.0,
+    "New": 785.0
+  }
+}
